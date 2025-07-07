@@ -1,0 +1,5 @@
+{
+  "watch": ["src","TS-Algorithm"],         
+  "ext": "ts",                 
+  "exec": "ts-node"  
+}
