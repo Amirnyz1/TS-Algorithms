@@ -12,3 +12,4 @@ coures2.push(1)
 
 console.log(coures2)
 
+//interface => create object types => objects, functions, class,...
